@@ -1,2 +1,4 @@
 # USBasp
-USBasp Schematic &amp; PCB Layout
+USBasp Schematic &amp; PCB layout based on Thomas Fischl design using SMD parts.
+
+![USBasp With SMD Parts](usbasp-brd.png)
